@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id":1,"title":"Solarbreeze"},{"id":2,"title":"Zontrax"},{"id":3,"title":"Bigtax"},{"id":4,"title":"Bitwolf"},{"id":5,"title":"Veribet"},{"id":6,"title":"Zoolab"},{"id":7,"title":"Stringtough"},{"id":8,"title":"Cardguard"},{"id":9,"title":"Gembucket"},{"id":10,"title":"Stim"}]
